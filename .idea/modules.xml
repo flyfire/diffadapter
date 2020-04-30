@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/diffadapter/diffadapter.iml" filepath="$PROJECT_DIR$/diffadapter/diffadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/diffadapter-app.iml" filepath="$PROJECT_DIR$/app/diffadapter-app.iml" group="diffadapter/app" />
+      <module fileurl="file://$PROJECT_DIR$/core/diffadapter-core.iml" filepath="$PROJECT_DIR$/core/diffadapter-core.iml" group="diffadapter/core" />
+      <module fileurl="file://$PROJECT_DIR$/diffadapter/diffadapter-diffadapter.iml" filepath="$PROJECT_DIR$/diffadapter/diffadapter-diffadapter.iml" group="diffadapter/diffadapter" />
+      <module fileurl="file://$PROJECT_DIR$/legend/diffadapter-legend.iml" filepath="$PROJECT_DIR$/legend/diffadapter-legend.iml" group="diffadapter/legend" />
+      <module fileurl="file://$PROJECT_DIR$/learning-diffadapter.iml" filepath="$PROJECT_DIR$/learning-diffadapter.iml" group="diffadapter" />
       <module fileurl="file://$PROJECT_DIR$/legend/legend.iml" filepath="$PROJECT_DIR$/legend/legend.iml" />
     </modules>
   </component>
